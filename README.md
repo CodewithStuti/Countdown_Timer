@@ -1,4 +1,5 @@
 # Countdown_Timer
+
 ## Countdown timer using python(GUI)
 # DESCRIPTION
 ***Creating a countdown timer using tkinkter library in python***
@@ -16,4 +17,7 @@
   +This project was developed using the Python programming language, which provided the necessary tools and functionality for building the Countdown Timer application.
   +We extend our thanks to the various online resources, tutorials, and community forums that provided valuable insights and guidance during the creation of this Countdown Timer project.
   
+
+Countdown timer using python
+***Start your Countdown Now***
 
